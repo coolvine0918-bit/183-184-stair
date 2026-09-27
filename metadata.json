@@ -1,0 +1,8 @@
+{
+  "name": "Remix P183-184 \u0026 무한의 계단",
+  "description": "중학 사회 선거와 민주 정치 퀴즈 (p.183-184)",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
